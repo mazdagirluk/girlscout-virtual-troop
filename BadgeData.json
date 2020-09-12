@@ -1,0 +1,543 @@
+{
+	"badges": [{
+			"title": "Automotive 1: Design",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_BrownieAutomotiveDesign_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how automotive designers come up with ideas for new vehicles. Then, take the wheel and design your own! \u003c/p\u003e\r\n\u003cp\u003e1. Explore how people move from place to place\u003cbr /\u003e\r\n2. Discover design criteria \u003cbr /\u003e\r\n3. Choose your vehicle’s design criteria\u003cbr /\u003e\r\n4. Sketch a vehicle to meet your criteria \u003cbr /\u003e\r\n5. Sculpt and share your vehicle \u003c/p\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to design, sketch, and sculpt a vehicle.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/brownie-automotive-design-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Automotive 2: Engineering",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_BrownieAutomotiveEngineering_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eGet in gear and explore how automotive engineers build vehicles. Then, engineer your own model of a vehicle to help people during an emergency! \u003cbr /\u003e\r\n\u003cbr /\u003e\r\n1. Learn about simple machines in vehicles \u003cbr /\u003e\r\n2. Engineer a vehicle for safety based on criteria \u003cbr /\u003e\r\n3. Build a vehicle prototype \u003cbr /\u003e\r\n4. Test and revise your vehicle prototype \u003cbr /\u003e\r\n5. Share your vehicle prototype and testing results \u003cbr /\u003e\r\n\u003cbr /\u003e\r\nWhen you\u0027ve earned this badge, you\u0027ll know how automotive engineers plan, build, test, and improve vehicles.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/brownie-automotive-engineering-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Automotive 3: Manufacturing",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_BrownieAutomotiveManufacturing_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eExperience the importance of having a plan and discover how manufacturers build lots of vehicles that are safe and well made! \u003cbr /\u003e\r\n\u003cbr /\u003e\r\n1. Experience the manufacturing process \u003cbr /\u003e\r\n2. Learn about the automotive manufacturing process \u003cbr /\u003e\r\n3. Plan your own automotive manufacturing process \u003cbr /\u003e\r\n4. Manufacture a set of vehicles \u003cbr /\u003e\r\n5. Share your automotive manufacturing process \u003cbr /\u003e\r\n\u003cbr /\u003e\r\nWhen you\u0027ve earned this badge, you\u0027ll know how vehicles are manufactured in a factory. You’ll also know how to make and test products for people to buy.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/brownie-automotive-manufacturing-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Brownie First Aid",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_FirstAid.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out what to do in an emergency so you can be prepared if the unexpected happens.\u0026nbsp; \u0026nbsp;\u003c/p\u003e \u003col\u003e \u003cli\u003eFind out how to get help from 911\u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003cli\u003eTalk to someone who treats injured people\u003c/li\u003e \u003cli\u003eMake a first-aid kit\u0026nbsp;\u003c/li\u003e \u003cli\u003eLearn how to treat minor injuries\u003c/li\u003e \u003cli\u003eKnow how to prevent and treat outdoor injuries\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you\u0026#39;ve earned this badge, you\u0026#39;ll know how to get help in an emergency and treat minor injuries.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-FIRST-AID-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills", "Health"]
+		},
+		{
+			"title": "Brownie Girl Scout Way",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_GSWay.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how you can share the Girl Scout legacy.   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eSing everywhere \u003c/li\u003e \u003cli\u003eCelebrate Juliette Low\u0027s\r\n  birthday \u003c/li\u003e \u003cli\u003eShare sisterhood \u003c/li\u003e \u003cli\u003eLeave a place better\r\n    than you found it\u003c/li\u003e \u003cli\u003eEnjoy Girl Scout traditions    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to practice and share\r\n  the Girl Scout way.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BROWNIE-THE-GIRL-SCOUT-WAY-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Citizenship", "Life Skills"]
+		},
+		{
+			"title": "Brownie STEM Career Exploration",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_BrownieSTEMCareerExploration_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how all the things you love—like camping, baking, and walking your dog—can become a job that changes the world. \u003cbr\u003e\r\nThen, create a plan to turn your dreams into a reality! \u003cbr\u003e\r\n\u003cbr\u003e\r\n1. Explore your interests \u003cbr\u003e\r\n2. Discover the possibilities \u003cbr\u003e\r\n3. Learn about the day-to-day \u003cbr\u003e\r\n4. Brainstorm your next steps \u003cbr\u003e\r\n5. Share your goals \u003c/p\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to use STEM to help others.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/brownie-stem-career-exploration-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Brownie Snow or Climbing Adventure",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/19_GE_BrownieSnowOrClimbingAdventure_badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eChoose your adventure: Ski along trails on a cross-country winter adventure, or learn climbing skills on an artificial wall, indoors or outdoors.\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eChoose your outdoor adventure\u003c/li\u003e\r\n\u003cli\u003ePlan and prepare\u003c/li\u003e\r\n\u003cli\u003eGather your gear\u003c/li\u003e\r\n\u003cli\u003eTrain for your adventure\u003c/li\u003e\r\n\u003cli\u003eGo on your outdoor adventure\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll have planned and learned the skills for cross-country skiing or rock climbing on a climbing wall. \u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/brownie-snow-or-climbing-adventure-badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Brownie Trail Adventure",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/19_GE_BrownieTrailAdventure_badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eChoose your adventure: Go trail running, or take different kinds of hikes.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eChoose your outdoor adventure\u003c/li\u003e\n\u003cli\u003ePlan and prepare\u003c/li\u003e\n\u003cli\u003eGather your gear\u003c/li\u003e\n\u003cli\u003eTrain for your adventure\u003c/li\u003e\n\u003cli\u003eGo on your outdoor adventure\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll have planned and learned the skills for an outdoor trail run or three different types of hikes. \u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/brownie-trail-adventure-badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Budding Entrepreneur",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_BuddingEntrepreneur_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eBecome an entrepreneur by making something, testing it out, and improving your idea to make it the best it can be!\u003cbr\u003e\r\n\u003cbr\u003e\r\n1. Come up with an idea that makes life better \u003cbr\u003e\r\n2. Share your idea with others to get feedback \u003cbr\u003e\r\n3. Improve your idea \u003cbr\u003e\r\n4. Share how your idea works \u003cbr\u003e\r\n5. Pitch your idea to an audience \u003cbr\u003e\r\n\u003cbr\u003e\r\nWhen you\u0027ve earned this badge, you will have come up with an idea for something that solves a problem, gotten feedback on it, and pitched it to others—all things that entrepreneurs do!\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/brownie-budding-entrepreneur-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship"]
+		},
+		{
+			"title": "Bugs",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Naturalist.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eExplore the world of bugs and learn more about these little creatures that do so much.\u0026nbsp; \u0026nbsp;\u003c/p\u003e \u003col\u003e \u003cli\u003eDraw a bug poster\u003c/li\u003e \u003cli\u003eTry a bug craft\u003c/li\u003e \u003cli\u003eSee bugs in action\u0026nbsp;\u003c/li\u003e \u003cli\u003eExplore bug homes\u003c/li\u003e \u003cli\u003eTake a bug field trip\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you\u0026#39;ve earned this badge, you\u0026#39;ll know all about bugs.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-BUGS-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer\n",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors", "STEM"]
+		},
+		{
+			"title": "Cabin Camper",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_CabinCamper.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003ePlan a camping adventure with your Girl Scout friends or family members and then go camping!\u003c/p\u003e \u003col\u003e \u003cli\u003eHelp plan your camping trip\u003c/li\u003e \u003cli\u003eLearn about camping gear\u003c/li\u003e \u003cli\u003ePrepare a camp meal\u003c/li\u003e \u003cli\u003eLearn a new camping skill\u003c/li\u003e \u003cli\u003eGo camping!\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you\u0026#39;ll know how to plan a camping trip and stay overnight in a cabin* with your friends or family.\u0026nbsp;\u003c/p\u003e \u003cp\u003e*If you don’t have a cabin to use, that’s ok! You can sleep in a tent instead.\u0026nbsp;\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/Brownie-Cabin-Camper-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Celebrating Community",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Citizen.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn about community celebrations and find out what your communities\r\n  do to celebrate all the people in them.   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eExplore community symbols \u003c/li\u003e \u003cli\u003eSing together \u003c/li\u003e\r\n    \u003cli\u003eFollow a parade\u003c/li\u003e \u003cli\u003eBe a landmark detective\u003c/li\u003e \u003cli\u003eJoin a\r\n    ceremony or celebration    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how your community\r\n  celebrates what makes it special.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BROWNIE-CELEBRATING-COMMUNITY-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Citizenship", "Life Skills"]
+		},
+		{
+			"title": "Coding for Good 1: Coding Basics",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/19_GE_BrownieCodingBasics_badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how computer scientists write programs for computers to solve problems.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eCreate algorithms for a computer that follow a sequence\u003c/li\u003e\n\u003cli\u003eUse loops to improve your algorithm\u003c/li\u003e\n\u003cli\u003eUse events to make things happen\u003c/li\u003e\n\u003cli\u003eLearn about women in computer science\u003c/li\u003e\n\u003cli\u003eCreate your own set of commands that use events\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how programmers write programs that make computers work and how people can use computers to help others.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/brownie-coding-basics-badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Coding for Good 2: Digital Game Design",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/19_GE_BrownieDigitalGameDesign_badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eExplore how video games can help people to learn new skills and experience new things.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eDiscover how game design can be used \u0026quot;for good\u0026quot;\u003c/li\u003e\n\u003cli\u003eExplore tools used to develop digital games\u003c/li\u003e\n\u003cli\u003ePlan a maze game\u003c/li\u003e\n\u003cli\u003eBuild, test, and improve your maze game using iteration\u003c/li\u003e\n\u003cli\u003eShare your game with others\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to think like a game maker and use iteration to plan, build, and test a game.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/brownie-digital-game-design-badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Coding for Good 3: App Development",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/19_GE_BrownieAppDevelopment_badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eDesign your own idea for an app that solves a problem for someone else.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eDiscover how apps can be used for good\u003c/li\u003e\n\u003cli\u003eDecompose the needs of your app user\u003c/li\u003e\n\u003cli\u003eDesign your app screens\u003c/li\u003e\n\u003cli\u003eCreate algorithms for your app that include events\u003c/li\u003e\n\u003cli\u003eShare and improve your app with user feedback\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know about user-centered design and how computer scientists develop apps.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/brownie-app-development-badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Computer Expert",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_DigitalComputerArt.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out what computers can help you do and learn to be a safe, secure computer expert.\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003ePaint or draw with an art program\u003c/li\u003e\r\n\u003cli\u003eFind some cool facts\u003c/li\u003e\r\n\u003cli\u003eTake a trip online\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eMake a connection\u003c/li\u003e\r\n\u003cli\u003eHave some computer fun\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to do many useful things on a computer.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-COMPUTER-EXPERT-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills", "STEM"]
+		},
+		{
+			"title": "Cookie Entrepreneur Family Pin",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/09076_BrownieCookieEntrepreneurFamilyPin_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eHave fun with your family as you earn this award while running your Girl Scout Cookie® business. \u003cbr /\u003e\r\n\u003cbr /\u003e\r\n1. Go for the goal \u003cbr /\u003e\r\n2. Find more customers \u003cbr /\u003e\r\n3. Be a money master \u003cbr /\u003e\r\n4. Make your pitch \u003cbr /\u003e\r\n5. Think like a Girl Scout\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/custitem_grade_level/Brownie?keywords\u003dentrepreneur%20family\u0026utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship"]
+		},
+		{
+			"title": "Cookie Entrepreneur Family Pin",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/09077_BrownieCookieEntrepreneurFamilyPin_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eHave fun with your family as you earn this award while running your Girl Scout Cookie® business.\u003cbr\u003e\r\n\u003cbr\u003e\r\n1. Go for the goal\u003cbr\u003e\r\n2. Find more customers\u003cbr\u003e\r\n3. Be a money master\u003cbr\u003e\r\n4. Make your pitch\u003cbr\u003e\r\n5. Think like a Girl Scout\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/custitem_grade_level/Brownie?keywords\u003dentrepreneur%20family\u0026utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship"]
+		},
+		{
+			"title": "Cybersecurity 1: Basics",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/18_GE_BrownieCybersecurityBasics_Badge_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how you use technology and how you can keep your technology safe.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out how you use technology\u003c/li\u003e \u003cli\u003eDiscover what your\r\n    technology can do\u003c/li\u003e \u003cli\u003eFind out how to create layers of\r\n  security\u003c/li\u003e \u003cli\u003eFind out how to use real-life safety rules when you\r\n    go online\u003c/li\u003e \u003cli\u003eFind out how messages travel on the internet\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know cybersecurity basics and\r\n  understand the role technology plays in your life.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Cybersecurity-Basics-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Cybersecurity 2: Safeguards",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/18_GE_BrownieCybersecuritySafeguards_Badge_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how to be safe when you go online. \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eCreate your identity\u003c/li\u003e \u003cli\u003eFind out what information to\r\n    keep private when you go online\u003c/li\u003e \u003cli\u003eFind out how to share\r\n    information safely online\u003c/li\u003e \u003cli\u003eFind out why you have to be\r\n    careful about who you trust online\u003c/li\u003e \u003cli\u003eTest your knowledge of\r\n    online safety rules\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know what information is\r\n  private and how to share information safely.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Cybersecurity-Safeguards-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Cybersecurity 3: Investigator",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/18_GE_BrownieCybersecurityInvestigator_Badge_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003ePut on your detective hat and solve cyber crimes.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eCrack a code to solve a problem \u003c/li\u003e \u003cli\u003eInvestigate what’s\r\n    real and fake in photos\u003c/li\u003e \u003cli\u003eFind out about digital\r\n  footprints\u003c/li\u003e \u003cli\u003eInvestigate how a computer virus can spread \u003c/li\u003e\r\n    \u003cli\u003eExplore a cyber attack\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to use investigative\r\n  skills to spot problems in the cyber world. \u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Cybersecurity-Investigator-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Dancer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_PerformDancer.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn fun warm-ups, perform steps from new dances, and make a dance\r\n  of your very own.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eWarm up and get moving\u003c/li\u003e \u003cli\u003eTry a new dance\u003c/li\u003e \u003cli\u003eTake\r\n    to the floor like a dancer \u003c/li\u003e \u003cli\u003eMake up your own dance\u003c/li\u003e\r\n    \u003cli\u003eShow your moves!    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll have explored the world of\r\n  dancing—and found the dancer inside of you.  \u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-DANCER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Art", "Life Skills"]
+		},
+		{
+			"title": "Democracy for Brownies",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/20_GE_DemocracyForBrownies_Badge_600x600px.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how people in the government decide what rules are made and how they are followed. \u003c/p\u003e\r\n\u003cp\u003e1. Find out about local government \u003cbr /\u003e\r\n2. Find out about state government \u003cbr /\u003e\r\n3. Find out about our country’s legislative branch \u003cbr /\u003e\r\n4. Find out about our country’s executive branch \u003cbr /\u003e\r\n5. Find out about our country’s judicial branch \u003c/p\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you will know the three branches of government—and some of the things they are responsible for.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/democracy-for-brownies-badge?utm_source\u003dgirlscouts.org\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dbadge_explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Citizenship", "Life Skills"]
+		},
+		{
+			"title": "Eco Friend",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/18_GE_EcoFriend_Badge_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how to treat outdoor spaces with kindness and teach others\r\n  how they can, too.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003e Think of ways to help the outdoors \u003c/li\u003e \u003cli\u003eObserve outdoor\r\n  spaces \u003c/li\u003e \u003cli\u003eBuild a safe campfire \u003c/li\u003e \u003cli\u003eTake care of\r\n  wildlife \u003c/li\u003e \u003cli\u003ePractice being kind \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you’ve earned this badge, you’ll have found new ways to protect\r\n  our natural world and the living things in it.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Eco-Friend-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Fair Play",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Athlete.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003ePlaying fair means that everyone has the same chance to play, because\r\n  everyone follows the same rules. That’s what this badge is about.\r\n  You’ll learn to work together to have the most fun possible. That’s\r\n  fair play!\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFollow the rules\u003c/li\u003e \u003cli\u003eInclude everyone\u003c/li\u003e \u003cli\u003eBe part of\r\n    a team\u003c/li\u003e \u003cli\u003eKeep score\u003c/li\u003e \u003cli\u003eHave a field day\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen I\u0027ve earned this badge, I\u0027ll know how to play fair in sports.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BROWNIE-FAIR-PLAY-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Citizenship", "Relationships", "Life Skills"]
+		},
+		{
+			"title": "Give Back",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_C2_GiveBack.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how philanthropists give money to help others. Then use the skills you learned to come up with ideas for how to give back with some of your cookie money!\u0026nbsp; \u0026nbsp;\u003cbr\u003e \u003c/p\u003e \u003col\u003e \u003cli\u003eFind out about businesses that give back\u003c/li\u003e \u003cli\u003eSet a giving goal\u003c/li\u003e \u003cli\u003eInvolve your customers\u003c/li\u003e \u003cli\u003ePractice giving back\u003c/li\u003e \u003cli\u003eTell your cookie customers how they helped\u0026nbsp;\u0026nbsp;\u003cbr\u003e \u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll know how businesses help others—and how you can do the same thing.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-GIVE-BACK-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer\n",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Financial Literacy", "Entrepreneurship"]
+		},
+		{
+			"title": "Hiker",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_OutdoorHiker.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out what you need to know to become a Brownie hiker.\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eDecide where to go\u003c/li\u003e\r\n\u003cli\u003eTry out a hiking skill\u003c/li\u003e\r\n\u003cli\u003ePick the right gear\u003c/li\u003e\r\n\u003cli\u003ePack a snack for energy\u003c/li\u003e\r\n\u003cli\u003eGo on your hike!\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to hit the trail for a hike.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-HIKER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Home Scientist",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_STEMKitchenChem.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out where science has been hiding in your home.\u0026nbsp; \u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eBe a kitchen chemist\u003c/li\u003e\r\n\u003cli\u003eCreate static electricity\u003c/li\u003e\r\n\u003cli\u003eDive into density\u003c/li\u003e\r\n\u003cli\u003eMake something bubble up\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003ePlay with science\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll be able to see the science all around you.\u0026nbsp;\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-HOME-SCIENTIST-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Household Elf",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_DIYElfHousehold.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003ePick up some new household habits to help your family save energy, save water, and save the planet.\u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eSave energy\u003c/li\u003e\r\n\u003cli\u003eSave water\u003c/li\u003e\r\n\u003cli\u003eGo natural\u003c/li\u003e\r\n\u003cli\u003eReuse or recycle\u003c/li\u003e\r\n\u003cli\u003eClear the air\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to make your home clean and green.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-HOUSEHOLD-ELF-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills"]
+		},
+		{
+			"title": "Inventor",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Innovation.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how inventors make stuff—and become an inventor yourself!\u0026nbsp; \u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eWarm up your inventor\u0027s mind\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eFind lots of ways to solve the same problem\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eMake a needs list\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eSolve a problem\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eShare your invention\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to think like an inventor.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-INVENTOR-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM", "Entrepreneurship"]
+		},
+		{
+			"title": "Journey: A World of Girls",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/10_GE_WorldOfGirlsJourney_Award_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out about girls around the world and how stories can give\r\n    you ideas for helping others—play a game from another culture,\r\n    invite storytellers to talk about what they do, or draw a\r\n    self-portrait that shows what\u0027s unique about you.\u003c/li\u003e \u003cli\u003ePlan a\r\n    Take Action Project, such as sewing a quilt, painting a mural,\r\n    writing a play, or creating your own ad.\u003c/li\u003e \u003cli\u003eEarn 4 leadership\r\n    awards: Hear a Story Award, Change a Story Award, Tell a Story\r\n    Award, and Better World for Girls! Award. If you\u0027re a Girl Scout\r\n    volunteer, go to Volunteer Toolkit for complete meeting plans and\r\n    activity instructions.\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003eGirl Scout Take Action Guide.\u003c/b\u003e\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Tell-Your-Story",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["Life Skills", "Journey"]
+		},
+		{
+			"title": "Journey: Brownie Quest",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/08_GE_BrownieQuestJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out how to take care of yourself, your family, your Girl\r\n    Scout sisters, and your community—do an activity with your family to\r\n    chart everyone’s special talents, play games at your troop meetings\r\n    to learn how to work together, or do a fun “clue hunting” activity\r\n    to learn the Girl Scout Law.\u003c/li\u003e \u003cli\u003ePlan a Take Action project,\r\n    such as visiting a nursery school to read to younger children or\r\n    teach them a game, creating a school skit about healthy eating, or\r\n    making a presentation to your city council about fixing a broken\r\n    sidewalk by your school.\u003c/li\u003e \u003cli\u003eEarn 4 leadership awards: Discover\r\n    Key; Connect Key; Take Action Key; Brownie Quest Award. If you\u0027re a\r\n    Girl Scout volunteer, go to Volunteer Toolkit for complete meeting\r\n    plans and activity instructions. \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003eGirl Scout Take Action Guide.\u003c/b\u003e\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Change-Your-World",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["Life Skills", "Journey"]
+		},
+		{
+			"title": "Journey: Outdoor (Brownie)",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/17_GE_BrownieOutdoorJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eDeepen your outdoor skills when you earn your Brownie First\r\n    Aid, Hiker badger, and Cabin Camper badges.\u003c/li\u003e \u003cli\u003ePlan a Take\r\n    Action project that helps others.\u003c/li\u003e \u003cli\u003eEarn a Take Action award.\r\n    If you\u0027re a Girl Scout volunteer, go to Volunteer Toolkit for\r\n    complete meeting plans and activity instructions.\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003eGirl Scout Take Action Guide.\u003c/b\u003e\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Outdoor",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["Journey", "Outdoors"]
+		},
+		{
+			"title": "Journey: Think Like a Citizen Scientist",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/17_GE_BrownieThinkLikeACitizenScientistJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out how citizen scientists make observations, collect\r\n    data, and work with scientists to receive feedback on research.\u003c/li\u003e\r\n    \u003cli\u003eDo 3 citizen science activities: sharpen your observation skills\r\n    through 2 observation games and a SciStarter project.\u003c/li\u003e \u003cli\u003ePlan\r\n    a Take Action project that helps others. If you\u0027re a Girl Scout\r\n    volunteer, go to Volunteer Toolkit for complete meeting plans and\r\n    activity instructions.\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003e\r\n    \u003ca\r\n      href\u003d\"/content/dam/girlscouts-gsusa/forms-and-documents/our-program/Badges/Brownie-Take-Action-Guide-Citizen-Science.pdf\"\r\n      target\u003d\"_blank\"\u003eGirl Scout Take Action Guide\u003c/a\u003e.\u003c/b\u003e\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Citizen-Science",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["STEM", "Journey"]
+		},
+		{
+			"title": "Journey: Think Like a Programmer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/17_GE_BrownieThinkLikeAProgrammerJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out how programmers use computational thinking to solve\r\n  problems.\u003c/li\u003e \u003cli\u003eDo 3 computational thinking activities: find out\r\n    about paper programming; create a functional suncatcher to explore\r\n    algorithms, variables, and functions; and create a personal\r\n    innovation to discover rapid prototyping.\u003c/li\u003e \u003cli\u003ePlan a Take\r\n    Action project that helps others. If you\u0027re a Girl Scout volunteer,\r\n    go to Volunteer Toolkit for complete meeting plans and activity\r\n  instructions.\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003e\r\n    \u003ca\r\n      href\u003d\"/content/dam/girlscouts-gsusa/forms-and-documents/our-program/Badges/Brownie-Take-Action-Guide-Computer-Science.pdf\"\r\n      target\u003d\"_blank\"\u003eGirl Scout Take Action Guide\u003c/a\u003e.\u003c/b\u003e\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Computer-Science",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["STEM", "Journey"]
+		},
+		{
+			"title": "Journey: Think Like an Engineer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/17_GE_BrownieThinkLikeAnEngineerJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind out how engineers use design thinking to solve\r\n  problems.\u003c/li\u003e \u003cli\u003eDo 3 design thinking activities: design and build\r\n    an assistive device, a water collection device, and a device that\r\n    can launch a ball across a room.\u003c/li\u003e \u003cli\u003ePlan a Take Action project\r\n    that helps others. If you\u0027re a Girl Scout volunteer, go to Volunteer\r\n    Toolkit for complete meeting plans and activity instructions.\u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eLearn more about how to earn your Take Action Award — and help your\r\n  community — with the \u003cb\u003e\r\n    \u003ca\r\n      href\u003d\"/content/dam/girlscouts-gsusa/forms-and-documents/our-program/Badges/Brownie-Take-Action-Guide-Engineering.pdf\"\r\n      target\u003d\"_blank\"\u003eGirl Scout Take Action Guide\u003c/a\u003e.\u003c/b\u003e\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Engineering",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["STEM", "Journey"]
+		},
+		{
+			"title": "Journey: WOW! Wonders of Water",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/09_GE_WoWWondersOfWaterJourney_Awards_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eIn this Journey, you will:\u003c/p\u003e\r\n \u003cp\u003e1. Explore the wonders of water by find out more about its\r\n  importance and how it\u0027s used around the world.\u003cbr /\u003e 2. Plan a Take\r\n  Action project, such as making informative posters, promoting\r\n  recycling at school, or planting low-water gardens.\u003cbr /\u003e 3. Earn 4\r\n  leadership awards: The LOVE Water Award, the SAVE Water Award, the\r\n  SHARE Water Award, and the WOW! Award.\u003c/p\u003e\r\n \u003cp\u003eIf you\u0027re a Girl Scout volunteer, go to \u003cb\u003eVolunteer Toolkit \u003c/b\u003efor\r\n  complete meeting plans and activity instructions. \u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BADGES-PROGRAM/BROWNIE2/custitem_journey_type/Love-Your-Planet",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "Get This Journey",
+			"otherTags": ["STEM", "Journey"]
+		},
+		{
+			"title": "Letterboxer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Letterboxing.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn about letterboxing, an amazing adventure game played by people all over the world. To play, you\u0027ll follow clues to find a hidden box with special items inside.\u0026nbsp; \u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eGet started with letterboxing\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eFind your own stamp\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003ePractice solving clues\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eSearch for a letterbox\u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eMake a letterbox\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to have fun adventures by finding and hiding letterboxes.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-LETTERBOXER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Making Friends",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_MakingFriends.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how to make new friends, keep old friends, and be the best\r\n  Brownie friend you can be.   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eMake friendly introductions  \u003c/li\u003e \u003cli\u003eShow friends you\r\n  care \u003c/li\u003e \u003cli\u003eShare favorite activities\u003c/li\u003e \u003cli\u003eLearn how to\r\n  disagree\u003c/li\u003e \u003cli\u003ePractice friendship!    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to be a good friend.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MAKING-FRIENDS-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Health", "Relationships", "Life Skills"]
+		},
+		{
+			"title": "Making Games",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_CreativityGames.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eUse your imagination to make up new games.\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eTry a scavenger hunt\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eMake up a mystery game\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eCreate a party game\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eChange the rules\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eInvent a whole new sport\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to create new games and share them with others.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MAKING-GAMES-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM", "Entrepreneurship"]
+		},
+		{
+			"title": "Mechanical Engineering: Fling Flyer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_GoldieBlox_FlingFlyer.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eWork like an engineer to create a Fling Flyer, an airplane you\u0026#39;ll make, and explore what keeps it and other things, such as birds, planes, and space ships, in the air.\u003c/p\u003e \u003col\u003e \u003cli\u003eLearn about forces that affect flight\u003c/li\u003e \u003cli\u003eDesign and build a Fling Flyer\u003c/li\u003e \u003cli\u003eTest your Fling Flyer\u003c/li\u003e \u003cli\u003eAnalyze and share your results\u003c/li\u003e \u003cli\u003eBrainstorm ways to improve your design\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you\u0026#39;ll have learned about the forces that affect flight as you design, build, and test a Fling Flyer. You\u0026#39;ll know how to design an investigation—and fine-tune your design after testing it, just like engineers.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/Brownie-Fling-Flyer-Design-Challenge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Mechanical Engineering: Leap Bot",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_GoldieBlox_Leapbot.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eDesign, build, and test things like an engineer as you create your own Leap Bot.\u003c/p\u003e \u003col\u003e \u003cli\u003eLearn about springs\u0026nbsp;\u003c/li\u003e \u003cli\u003eBuild your Leap Bot\u0026nbsp;\u003c/li\u003e \u003cli\u003eCreate a way to test how well your Leap Bot performs\u0026nbsp;\u003c/li\u003e \u003cli\u003eRecord the results of your test\u0026nbsp;\u003c/li\u003e \u003cli\u003eShare your results\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you\u0026#39;ll have learned about engineering, gravity, and force by building and testing a Leap Bot. You will know how to build and test a new product.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/Brownie-Leap-Bot-Design-Challenge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Mechanical Engineering: Race Car",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_GoldieBlox_RaceCar.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eDesign, build, and test your own race car to explore how science can make a faster race car!\u003c/p\u003e \u003col\u003e \u003cli\u003eLearn how design can affect speed\u0026nbsp;\u003c/li\u003e \u003cli\u003eDesign and build your race car\u003c/li\u003e \u003cli\u003eDesign your racetrack\u003c/li\u003e \u003cli\u003eConduct a fair test and record results\u0026nbsp;\u003c/li\u003e \u003cli\u003eShare what you learned\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you\u0026#39;ll have designed a race car and a race track and carried out “fair tests” to learn how design affects speed.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/Brownie-Race-Car-Design-Challenge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Meet My Customers",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_C1_MeetYourCustomers.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how to manage your money by pretending to be a customer. Then use what you learned to make sure your cookie customers enjoy buying from you.\u003c/p\u003e \u003col\u003e \u003cli\u003eFind out where your customers are\u0026nbsp;\u003c/li\u003e \u003cli\u003eTalk to some customers\u003c/li\u003e \u003cli\u003ePractice handling money and making change\u003c/li\u003e \u003cli\u003eRole-play good customer relations\u0026nbsp;\u003c/li\u003e \u003cli\u003eThank your customers!\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll know how to find customers and be comfortable selling to them.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MEET-MY-CUSTOMERS-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship", "Financial Literacy"]
+		},
+		{
+			"title": "Money Manager",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_F1_MoneyManager.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn the difference between needs, like food and clothing, and wants, like video games and movie tickets.\u0026nbsp; \u0026nbsp;\u003c/p\u003e \u003col\u003e \u003cli\u003eShop for elf items with your elf doll\u003c/li\u003e \u003cli\u003eGo grocery shopping\u003c/li\u003e \u003cli\u003eGo clothes shopping\u003c/li\u003e \u003cli\u003eGet ready for school\u003c/li\u003e \u003cli\u003eHave some fun\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll know how to manage money wisely.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MONEY-MANAGER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship", "Financial Literacy"]
+		},
+		{
+			"title": "My Best Self",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_HealthyMyBestSelf.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn to pay attention to what your body needs and ask for health\r\n  help if you need it.   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eGet to know your body  \u003c/li\u003e \u003cli\u003eEat and play in a healthy\r\n  way\u003c/li\u003e \u003cli\u003eFind out how your body works \u003c/li\u003e \u003cli\u003eKnow what to do if\r\n    something bugs you\u003c/li\u003e \u003cli\u003eMeet a health helper    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to keep yourself\r\n  healthy and happy.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MY-BEST-SELF-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Health", "Life Skills"]
+		},
+		{
+			"title": "My Family Story",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_StorytellerFamilyStory.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out more about your family—the people you love and who love you.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eExplore family stories \u003c/li\u003e \u003cli\u003eKnow where your family is\r\n  from \u003c/li\u003e \u003cli\u003eMake a story tree\u003c/li\u003e \u003cli\u003eFind an object that means\r\n    something to your family \u003c/li\u003e \u003cli\u003eShare your family story    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to tell your family story.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MY-FAMILY-STORY-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Relationships", "Life Skills"]
+		},
+		{
+			"title": "My Great Day",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_PracticalOrganizer.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eTry out ways to get organized and learn how to help your family and friends stay organized too.\u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eStart your day right\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eSort out your stuff\u003c/li\u003e\r\n\u003cli\u003eMake homework a breeze\u003c/li\u003e\r\n\u003cli\u003ePlan ahead\u003c/li\u003e\r\n\u003cli\u003eHelp others get organized\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll be able to organize yourself to have a great day every day.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-MY-GREAT-DAY-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills", "Relationships"]
+		},
+		{
+			"title": "Outdoor Adventurer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_OutdoorExplorer.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eExplore outdoor activities that are new to you.\u003c/p\u003e \u003col\u003e \u003cli\u003ePlay outdoors in a new way\u003c/li\u003e \u003cli\u003eExplore nature\u003c/li\u003e \u003cli\u003eBuddy up and play outdoor games\u003c/li\u003e \u003cli\u003eLearn a camp skill\u003c/li\u003e \u003cli\u003eCare for the outdoors\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll have tried a lot of new things outdoors and learned which activities you want to do again.\u0026nbsp;\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-OUTDOOR-ADVENTURER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors"]
+		},
+		{
+			"title": "Outdoor Art Creator",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_OutdoorArt.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out how you can make your own art outdoors and have fun doing it.\u003c/p\u003e \u003col\u003e \u003cli\u003eFind art ideas outdoors\u003c/li\u003e \u003cli\u003eMake something!\u003c/li\u003e \u003cli\u003eDance or make music outdoors\u003c/li\u003e \u003cli\u003eBe a nature photographer\u003c/li\u003e \u003cli\u003eDesign with nature \u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll know how to do different kinds of fun art projects outdoors.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-OUTDOOR-ART-CREATOR-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Outdoors", "Art"]
+		},
+		{
+			"title": "Painting",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Artist.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn to paint and color your world.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eGet inspired\u003c/li\u003e \u003cli\u003ePaint the real world\u003c/li\u003e \u003cli\u003ePaint a\r\n  mood\u003c/li\u003e \u003cli\u003ePaint without brushes\u003c/li\u003e \u003cli\u003ePaint a mural    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you’ve earned this badge, you’ll have new ideas about what to\r\n  paint—and how to paint it.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/BROWNIE-PAINTING-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Art", "Life Skills"]
+		},
+		{
+			"title": "Pets",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_AnimalsPets.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn how to choose the pet that\u0027s right for you—or find out how to take the best care of a pet you already have.\u0026nbsp;\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eFind out what care different pets need\u003c/li\u003e\r\n\u003cli\u003eKeep a pet comfy\u003c/li\u003e\r\n\u003cli\u003eHelp a pet stay healthy and safe\u003c/li\u003e\r\n\u003cli\u003eMake a pet feel loved\u0026nbsp;\u003c/li\u003e\r\n\u003cli\u003eFeed a pet\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how to take care of a pet.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-PETS-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills"]
+		},
+		{
+			"title": "Philanthropist",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_F2_Philanthropist.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eFind out more about basic human needs and learn how you can be a \u0026quot;philanthropist\u0026quot;—a person who gives to people who need help!\u003c/p\u003e \u003col\u003e \u003cli\u003eLearn what every person needs\u003c/li\u003e \u003cli\u003eInvestigate how to help people who are hungry\u003c/li\u003e \u003cli\u003eFind out how to help people who need clothing\u003c/li\u003e \u003cli\u003eKnow how to help in times of emergency\u003c/li\u003e \u003cli\u003eThink—and act—like a philanthropist\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you’ve earned this badge, you’ll know how to help people in need.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-PHILANTHROPIST-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Entrepreneurship", "Financial Literacy"]
+		},
+		{
+			"title": "Potter",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_CraftPottery.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eExplore the history of clay art and become a clay artist yourself.   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eFind some pottery\u003c/li\u003e \u003cli\u003eGet to know clay\u003c/li\u003e \u003cli\u003eMake a\r\n    simple pot\u003c/li\u003e \u003cli\u003eMake an art piece\u003c/li\u003e \u003cli\u003ePaint and glaze! \r\n    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll be able to make your own\r\n  projects out of clay.\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-POTTER-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Art", "Life Skills"]
+		},
+		{
+			"title": "Robotics 1: Programming Robots",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Robot2_Program.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eLearn about the robot brain by engineering a machine that helps a\r\n  robot to land\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eLearn how robots work \u003c/li\u003e \u003cli\u003eDiscover the robot brain\u003c/li\u003e\r\n    \u003cli\u003eLearn about programming\u003c/li\u003e \u003cli\u003eTry simple programming\u003c/li\u003e\r\n    \u003cli\u003eCode a robot \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you’ve earned this badge, you\u0027ll know how to create a program\r\n  that could be run by a robot.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Programming-Robots-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Robotics 2: Designing Robots",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Robot1_Build.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eTeam up with your fellow Brownies to design a robot. Plan, build, and\r\n  share your robot prototype.\u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eExplore how robots imitate nature\u003c/li\u003e \u003cli\u003eLearn about the\r\n    parts of a robot\u003c/li\u003e \u003cli\u003ePlan your robot \u003c/li\u003e \u003cli\u003eCreate a\r\n  prototype\u003c/li\u003e \u003cli\u003eGet feedback on your robot \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you’ve earned this badge, you\u0027ll know how to plan, build, and\r\n  share feedback like an engineer by creating a prototype of a robot\r\n  that helps other people or animals.\u003c/p\u003e",
+			"link": "https://www.girlscoutshop.com/Brownie-Designing-Robots-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Robotics 3: Showcasing Robots",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Robot3_Show.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eAfter engineers build their robots, they show them to others and enter them into challenges and competitions.\u003c/p\u003e \u003col\u003e \u003cli\u003eCreate a presentation to share how you designed your robot\u003c/li\u003e \u003cli\u003eTell others how you designed your robot\u003c/li\u003e \u003cli\u003eLearn about robotics competitions\u003c/li\u003e \u003cli\u003eLearn about robotics teams\u003c/li\u003e \u003cli\u003eSee robots in action\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003e\u003cb\u003eNote:\u003c/b\u003e Unlike the other Robotics badges, these steps include options. You may be able to complete multiple steps, particularly three through five, at once. \u003c/p\u003e \u003cp\u003eWhen you’ve earned this badge, you\u0026#39;ll know how to share your robot with others.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/Brownie-Showcasing-Robots-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		},
+		{
+			"title": "Senses",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_InvestigateSenses.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eYou have five senses that work together to let you see, hear, smell,\r\n  taste, and touch the world around you. Try all five in this badge!   \u003c/p\u003e\r\n \u003col\u003e \u003cli\u003eLook around\u003c/li\u003e \u003cli\u003eListen to the world \u003c/li\u003e \u003cli\u003ePut your\r\n    nose to work\u003c/li\u003e \u003cli\u003eTake a taste test\u003c/li\u003e \u003cli\u003eTouch and feel \r\n    \u003c/li\u003e \u003c/ol\u003e\r\n \u003cp\u003eWhen you\u0027ve earned this badge, you\u0027ll know how you use your five\r\n  senses to explore the world.   \u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/BROWNIE-SENSES-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Health", "Life Skills"]
+		},
+		{
+			"title": "Snacks",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/Brownie_Cook.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eMake great snacks for yourself and your friends.\u0026nbsp; \u0026nbsp; \u003c/p\u003e \u003col\u003e \u003cli\u003eFind out about different types of snacks\u0026nbsp;\u003c/li\u003e \u003cli\u003eMake a savory snack\u0026nbsp;\u003c/li\u003e \u003cli\u003eTry a sweet snack\u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003cli\u003eSnack for energy\u0026nbsp;\u003c/li\u003e \u003cli\u003eSlurp a snack\u0026nbsp; \u0026nbsp;\u0026nbsp;\u003c/li\u003e \u003c/ol\u003e \u003cp\u003eWhen you\u0026#39;ve earned this badge, you\u0026#39;ll know how to make yummy snacks for your family and friends.\u003c/p\u003e ",
+			"link": "https://www.girlscoutshop.com/BROWNIE-SNACKS-BADGE?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["Life Skills", "Health"]
+		},
+		{
+			"title": "Space Science Adventurer",
+			"image": "/content/dam/girlscouts-gsusa/images/Badges/Brownie/18_GE_SpaceScienceAdventurer_Badge_600x600.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+			"description": "\u003cp\u003eInvestigate the complexities of the sky as you learn to see things in a new way.\u003c/p\u003e\r\n\u003col\u003e\r\n\u003cli\u003eMeet the neighbors\u003c/li\u003e\r\n\u003cli\u003eSee more than before\u003c/li\u003e\r\n\u003cli\u003eInvestigate the Moon\u003c/li\u003e\r\n\u003cli\u003eBe a stargazer\u003c/li\u003e\r\n\u003cli\u003eCelebrate and share\u003c/li\u003e\r\n\u003c/ol\u003e\r\n\u003cp\u003eWhen you’ve earned this badge, you\u0027ll know how to investigate the Sun, Moon, planets, and stars.\u0026nbsp;\u003c/p\u003e\r\n",
+			"link": "https://www.girlscoutshop.com/Brownie-Space-Science-Adventurer-Badge?utm_campaign\u003dNational_Site\u0026utm_medium\u003dNational_Site_Image\u0026utm_source\u003dBadge_Explorer",
+			"rank": "Brownie (Grades 2-3)",
+			"badgeCTA": "GET THIS BADGE",
+			"otherTags": ["STEM"]
+		}
+	]
+}
